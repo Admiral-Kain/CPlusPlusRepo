@@ -14,4 +14,4 @@ Like with most programming langauges, C++ has a variety of data types that users
 
 **char**: Allows users to store characters such as 'a', 'b', etc. Note that '2' (in char) does not equal the actual number 2.
 
-More info to add later
+The following programs showcase simple and straightforward programs to get started and get used to using these programs.
