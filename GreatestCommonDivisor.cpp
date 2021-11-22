@@ -27,7 +27,7 @@ void greatestCommonDivisor(int first, int second){
   while(second != 0){             //while loop to go through the process to find the remainder
     remainder = first % second;   //get the remainder via modulo "%"
     first = second;               //store the first into the second
-    second = divisor;             //set second as divisor and repeat to the top
+    second = remainder     //set second as remainder and repeat to the top
   }                               //if second turns out to be 0, then the loop ends
 
   cout << "The common divisor is:" << first << endl;  //print out the end result
