@@ -14,4 +14,13 @@ Like with most programming langauges, C++ has a variety of data types that users
 
 **char**: Allows users to store characters such as 'a', 'b', etc. Note that '2' (in char) does not equal the actual number 2.
 
-The following programs showcase simple and straightforward programs to get started and get used to using these programs.
+**arrays**: An array is a list of elements that begin at 0 and go to MAX - 1. For instance, if you're given an array that carries 5 ints, then the places of that array are labeled as 0-4. Arrays with characters are also known as **strings**.
+
+## Conditionals
+Conditional statements are useful when it comes to determining the right outcome of one's program. The most popular ones are the if and switch statements. 
+
+**if or if else**: Follows a format where if the condition is met or is true (in the parenthesis), then you execute the code. If it is not met or false, then you don't execute the code within that if statement and carry on with your program. Additionally, if there are multiple cases, then **else if** exists so that if the first one is not true, then go to the else if.
+
+**switch**: A switch statement is similar to the if statement, however has multiple cases for the program to go through. If that is met, you would need to break from that switch statement. 
+
+In this repo, I've provided some basic programs that allows you to get to know how to program with the C++ Programming Language.
